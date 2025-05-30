@@ -2,5 +2,5 @@
 apache-airflow-providers-common-compat==1.2.2
 apache-airflow-providers-apache-spark==4.11.3
 # apache-airflow-providers-apache-hdfs==4.9.0
-# hdfs>=2.7.3
+hdfs>=2.7.3
 pyspark==3.5.5
